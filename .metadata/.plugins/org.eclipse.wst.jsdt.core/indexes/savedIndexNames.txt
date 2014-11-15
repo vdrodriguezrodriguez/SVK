@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\VERITO\Documents\GitHub\SVK\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2784575747.index
+1615463138.index
+3948906189.index
+2832492207.index
+2672189235.index
